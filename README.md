@@ -1,3 +1,2 @@
 # codsoft
-Internship
-#Tasks
+Internship tasks
